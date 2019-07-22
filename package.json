@@ -1,0 +1,25 @@
+{
+  "name": "@fippli/update-in",
+  "version": "1.0.0",
+  "description": "update in nested json",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fippli/update-in.git"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "Filip Johansson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fippli/update-in/issues"
+  },
+  "homepage": "https://github.com/fippli/update-in#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
